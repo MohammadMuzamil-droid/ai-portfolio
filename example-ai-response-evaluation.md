@@ -2,63 +2,64 @@
 
 ## Overview
 
-This example demonstrates how an AI-generated response can be evaluated using a structured and evidence-based approach.
+This example is based on an independent practice exercise in evaluating AI-generated reasoning.
 
-The case is fully synthetic and does not use confidential, proprietary, or platform-specific evaluation materials.
+The exercise focuses on identifying whether a conclusion is logically supported by the available information.
 
 ## Scenario
 
-**User prompt:**
-
-> What is the capital of Australia?
-
-**AI response:**
-
-> The capital of Australia is Sydney. Sydney is the country's largest city and is located on the east coast.
+An AI response suggested that the presence of an irrelevant browsing step automatically means that the overall browsing process is excessive or insufficient.
 
 ## Evaluation
 
-### 1. Factual Accuracy
+### 1. Identify the Main Claim
 
-The response contains a factual error.
+The main claim is that an irrelevant browsing step automatically determines the overall quality of the browsing process.
 
-Australia's capital is **Canberra**, not Sydney.
+This conclusion is too broad.
 
-Sydney is one of Australia's largest and best-known cities, but it is not the national capital.
+### 2. Examine the Reasoning
 
-### 2. Relevance
+An irrelevant step can occur during a browsing process without necessarily determining the final outcome.
 
-The response is relevant to the user's question because it directly attempts to identify the capital of Australia.
+For example:
 
-However, relevance alone does not compensate for the incorrect answer.
+1. An AI system performs an irrelevant search.
+2. The system recognizes that the result does not address the user's information need.
+3. The system performs a relevant search.
+4. The required information is obtained.
+5. The system stops browsing.
 
-### 3. Reasoning and Explanation
+In this situation, the presence of one irrelevant step does not by itself prove that the overall process was excessive or insufficient.
 
-The response gives an additional statement about Sydney being a major city and its location. This information is generally relevant to Sydney, but it does not support the incorrect conclusion that Sydney is the capital.
+### 3. Identify the Reasoning Issue
 
-The response therefore illustrates how additional correct information can coexist with an incorrect central claim.
+The reasoning incorrectly treats one characteristic of a process as sufficient evidence for a broader conclusion.
+
+A stronger evaluation should consider the complete process, the user's information need, and whether the final information requirement was satisfied.
 
 ### 4. Overall Assessment
 
 **Result: Needs improvement**
 
-The primary reason is the incorrect answer to the user's question.
+The response contains an overly broad conclusion because it assumes that one irrelevant action automatically determines the classification of the entire process.
 
-A stronger response would identify Canberra as the capital and could optionally clarify that Sydney is a major Australian city but not the capital.
-
-## Corrected Response
-
-> The capital of Australia is Canberra. Sydney is Australia's largest city and a major economic and cultural centre, but it is not the capital.
+A more careful analysis should evaluate the complete sequence of actions and their relationship to the user's information need.
 
 ## Skills Demonstrated
 
-- Identifying factual errors
-- Separating correct supporting information from an incorrect conclusion
-- Evaluating relevance
-- Distinguishing the central claim from secondary information
-- Providing an evidence-based correction
-- Communicating an evaluation clearly
+- Critical thinking
+- Logical reasoning
+- Identifying unsupported conclusions
+- Analyzing reasoning step by step
+- Comparing alternative interpretations
+- Distinguishing individual actions from overall outcomes
+- Structured evaluation
+
+## Learning Outcome
+
+This exercise strengthened my ability to examine AI reasoning step by step and avoid accepting conclusions that are broader than the evidence supports.
 
 ## Methodological Note
 
-This example uses a simple synthetic scenario to demonstrate the evaluation process. It is intended to show analytical ability rather than represent professional work performed for a specific company or platform.
+This example represents an independent practice exercise. It does not use confidential, proprietary, or platform-specific evaluation materials.
