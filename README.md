@@ -1,52 +1,70 @@
-
 # AI Portfolio
 
-## About Me
+A portfolio documenting practical work in AI response evaluation, instruction following, reasoning analysis, and error detection.
 
-I am an independent learner with a growing focus on Artificial Intelligence, Generative AI, and AI evaluation.
+## About This Portfolio
 
-My background in education, assessment, content development, and analytical problem-solving has led me to explore how AI systems can be evaluated, improved, and applied to practical problems.
+This portfolio contains documented examples of evaluating AI-generated responses.
 
-## Areas of Interest
+The cases focus on identifying problems such as:
 
-- Artificial Intelligence
-- Generative AI
-- AI Evaluation
-- AI Quality Analysis
-- Prompt Analysis
-- Data Annotation
-- AI Data Collection
-- AI-assisted Workflows
+- instruction-following failures;
+- reasoning errors;
+- unsupported claims;
+- inconsistent definitions;
+- logical fallacies;
+- hallucinated information;
+- poor evidence grounding.
 
-## Skills
+The portfolio is based on actual evaluation work and documented interactions rather than fictional professional experience.
 
-- Analytical reasoning
-- Critical evaluation
-- Content and question development
-- AI response analysis
-- Structured problem solving
-- Prompt analysis
-- Independent learning and research
+## Evaluation Cases
 
-## Learning & Development
+### Case 01 — AI Response Analysis
 
-I am continuously developing my knowledge and practical skills in artificial intelligence, generative AI, and AI-related evaluation workflows.
+An analysis of an AI response with a focus on identifying response-quality problems and evaluating the reasoning behind the answer.
 
-## Certificates
+### Case 02 — Instruction Following and Project Constraints
 
-- OpenAI Academy training certificates
+An evaluation of an AI response that failed to follow project-specific instructions when processing uncertain information.
 
-## Career Interests
+### Case 03 — Logical Reasoning Error
 
-I am interested in remote opportunities involving:
+An analysis of an incorrect logical conclusion involving relevant browsing, irrelevant browsing, and over-browsing.
 
-- AI Evaluation
-- AI Training
-- AI Data Collection
-- Data Annotation
-- AI Quality Analysis
-- Generative AI
+### Case 04 — Inconsistent Definitions
 
-## Contact
+An evaluation of inconsistent definitions of over-browsing and how different operational definitions can produce different classifications of the same case.
 
-GitHub: MohammadMuzamil-droid
+### Case 05 — Unsupported Claims and Evidence Grounding
+
+An evaluation of AI-generated claims that were not adequately supported by the available evidence, including the risk of presenting generated examples as actual user experience.
+
+## Skills Demonstrated
+
+- AI response evaluation
+- Instruction following assessment
+- Reasoning quality analysis
+- Logical error detection
+- Hallucination detection
+- Evidence grounding
+- Fact and claim verification
+- Consistency analysis
+- Error identification and correction
+
+## Evaluation Principles
+
+The evaluations prioritize:
+
+1. Accuracy
+2. Instruction following
+3. Logical consistency
+4. Evidence grounding
+5. Clear distinction between facts and assumptions
+6. Transparent correction of errors
+
+## Portfolio Scope
+
+This is a practical evaluation portfolio rather than a collection of fictional work samples.
+
+Each case documents an actual evaluation issue and the reasoning used to identify and correct the problem.
