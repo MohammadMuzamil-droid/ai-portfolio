@@ -27,7 +27,7 @@ The cases focus on identifying and analyzing:
 
 An independent analysis of AI-generated responses, focusing on response quality, reasoning, relevance, and consistency.
 
-[View Case 01](ai-response-analysis.md)
+[View Case 01](ai-response-evaluation-case-01.md)
 
 ### Case 02 — Instruction Following and Project Constraints
 
